@@ -1,0 +1,107 @@
+- SPAZIO USATO SU DISCO C
+
+19/2/2022	50.943.832.064
+			50.927.947.776 --- senza cancellare niente
+20/2			50.771.165.184 --- senza cancellare niente
+21/2			51.503.665.184 --- senza aggiungere niente
+			54.870.810.000	installato xampp , composer , node e importato progetti
+			55.662.735.360	lavorato su progetti nb
+23/2			54.922.190.000	lavorato su progetti nb
+25/2			55.722.205		lavorato su progetti nb
+26/2			56.483			lavorato su progetti nb
+			56.326.......		lavorato su progetti nb
+			56.348
+			58.619.....		spento/riacceso senza fare niente
+			59.053....			non lavorato
+			58.204			cancellato cronologia e altri dati
+			57.981.6			spento e riacceso
+28/2			59.433.000		lavorato NB
+1/3			59.565.514....		spento e riacceso
+2/3			58.931.245....		lavorato NB
+			57.796.304...		fatto pulizia
+			58.911.371..		
+			56.661.245....		ccleaner gratuito
+			56.341.811...		cancellato cronologia
+4/3			55.576.793....		lavorato NB
+5/3			56.316.689		forse in corso aggiornamenti sistema
+			57.208.741		
+			57.111.068		eseguito ccleaner
+			57.345.089
+			57.917.235....		
+			57.334.419...	
+7/3			57.942.306...
+			58.005.676
+			57.457.971..		eseguito ccleaner
+9/3			59.923.591		duplicato cartella aks , installato laravel ui , mutiselect
+10/3			60.400.300		altri lavori con mutiselect
+11/3			55.021.993...		cancellato progetti da htdocs + aggiornamenti SO WIN 
+			55.311.724		lavorato NB
+17/3			56.279.670..		lavorato NB
+			57.040.900		lavorato NB
+21/3			57.302.153...
+21/3			56.570.005		fatta pulizia con ccleaner
+26/3			52.589.610..		fatta pulizia con ccleaner
+1/4			54.087.700..
+2/4			53.250.343...		fatta pulizia con ccleaner
+			54.540.947...		creato progetto Vue nuovo con nuovo metodo CLI
+			54.112.654		fatta pulizia con ccleaner
+			56.015.200		aggiunto adminlte3 con npm in vue
+4/4			59.581.706		dati per aggiornamento SO
+6/4			58.394.636		
+			57.637.400		pulizia ccleaner
+12/4			58.548.496		pulizia ccleaner
+20/4			67.188.142...
+			66.657.451		pulizia ccleaner
+21/4			68.308.545		lavori NB
+			70.200.254		lavori NB -- importazione progetti Vue AdminLte
+21/4			70.247.792
+			69.027.438		pulizia ccleaner
+22/4			69.818.254		prima situazione
+			72.930.169		prova creazione progetto laravel + vue
+			87.224.750		prova creazione progetto laravel + vue altra prova
+			89.001.959		alla fine delle prove precedenti
+22/4			70.624.531		spento e riacceso
+			70.063.886		pulizia ccleaner
+23/4			71.740.100		nessun carico particolare
+			71.578.173		"
+24/4			71.418.780		"
+26/4			70.757.453		pulizia ccleaner
+28/4			72.239.456		prove varie NB
+29/4			70.139.326		pulizia ccleaner
+1/5			70.027.956		nessun carico particolare
+5/5			60.598.505		pulizia ccleaner
+10/5			61.813.006
+10/5			61.065.531		pulizia ccleaner
+15/5			62.041.423		uso normale
+21/5			67.576.905		lavori NB
+26/5			65.862.135		pulizia ccleaner
+29/5			55.806.079		pulizia ccleaner
+2/6			58.239.100		
+6/6			59.012.654
+9/6			60.177.367
+11/6			61.019.639		pulizia ccleaner
+13/6			59.461.840		pulizia ccleaner
+18/6			62.890.122		pulizia ccleaner
+27/6			59.419.300		pulizia ccleaner
+2/9			57.063.276		
+10/9			59.452.325
+11/10		62.253.545
+20/10		64.568.524
+23/10		59.904.524
+1/11/2022	54.891.254		reinstallato win -----------------------------------------
+17/11		48.618.587		pulizia
+20/11		51.681.321		pulizia
+12/12		115.621.000		installato Android Studio 
+15/12		105.621.307		Reinstallato Win11 + tutti programmi + Android studio
+17/12		106.722.545		uso normale
+18/12		104.781.365		uso normale
+20/12		105.866.407				
+21/12		106.412.325	
+27/12		87.409.254		pulizia (eliminato da MS windows.old)
+22/1			86.552.547		uso normale
+8/5/2023		52.826.325		disinstallato AndroidStudio + pulizia
+9/5			79.042.002		reinstallato AndroidStudio + pulizia
+10/5			94.099.003		installato emulatori in AS 
+9/8/23		72.130.005	
+12/2023		97.642.377
+1/2024		94.937.000
