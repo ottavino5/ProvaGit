@@ -1,3 +1,4 @@
+Variata da repo locale
 - SPAZIO USATO SU DISCO C
 
 19/2/2022	50.943.832.064
